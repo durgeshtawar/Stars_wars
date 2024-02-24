@@ -1,0 +1,22 @@
+*{
+    background-color: whitesmoke;
+}
+.nav
+{
+    background-color: black;
+    color: rgb(84, 84, 175);
+
+}
+.home
+{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(108, 8, 121);
+    text-decoration:blueviolet;
+    animation-duration:inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 180px;
+    margin-left: 60px; */
+}
